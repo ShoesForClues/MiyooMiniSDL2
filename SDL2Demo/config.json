@@ -1,0 +1,7 @@
+{
+"label":"SDL2",
+"icon":"logo.png",
+"iconsel":"logo_sel.png",
+"launch":"launch.sh",
+"description":"SDL2 Test"
+}
